@@ -9,7 +9,7 @@ Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases va
 - **Key Features:** Fine-tuning, dataset preprocessing, evaluation metrics.  
 - **📌 Path:** `projects/sentiment_analysis/`  
 
-### 🔹 2. Image Classification with CNNs (catORdog) 
+### 🔹 2. Image Classification with CNNs (catORdog.ipynb) 
 - **Goal:** Classify images into categories (e.g., cats vs. dogs).  
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV.  
 - **Key Features:** CNN architecture, data augmentation, model evaluation.  
