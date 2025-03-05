@@ -11,7 +11,7 @@ Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases va
 - **📌 Path:** `projects/image_classification/`  
 
 
-### 🔹 2. Feedback Sentiment Analysis ((FeedbackAnalysis.ipynb))  
+### 🔹 2. Feedback Sentiment Analysis (FeedbackAnalysis.ipynb)
 - **Goal:** Analyze customer feedback to determine sentiment (positive, neutral, negative).  
 - **Tech Stack:** Python, NLP, Scikit-learn, NLTK, Pandas.  
 - **Key Features:** Text preprocessing, sentiment classification, model evaluation.  
