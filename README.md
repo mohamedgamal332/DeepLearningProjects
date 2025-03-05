@@ -3,18 +3,20 @@
 Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases various deep learning projects covering NLP, computer vision, and other AI applications. Each project includes code, datasets, and explanations to help you understand and experiment with deep learning models.  
 
 ## 📂 Projects Included  
-### 🔹 1. Sentiment Analysis with Transformers  
-- **Goal:** Classify text as positive or negative using BERT.  
-- **Tech Stack:** Python, PyTorch, Hugging Face Transformers.  
-- **Key Features:** Fine-tuning, dataset preprocessing, evaluation metrics.  
-- **📌 Path:** `projects/sentiment_analysis/`  
 
-### 🔹 2. Image Classification with CNNs (catORdog.ipynb) 
+### 🔹 1. Image Classification with CNNs (catORdog.ipynb) 
 - **Goal:** Classify images into categories (e.g., cats vs. dogs).  
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV.  
 - **Key Features:** CNN architecture, data augmentation, model evaluation.  
 - **📌 Path:** `projects/image_classification/`  
 
+
+### 🔹 2. Feedback Sentiment Analysis ((FeedbackAnalysis.ipynb))  
+- **Goal:** Analyze customer feedback to determine sentiment (positive, neutral, negative).  
+- **Tech Stack:** Python, NLP, Scikit-learn, NLTK, Pandas.  
+- **Key Features:** Text preprocessing, sentiment classification, model evaluation.  
+- **📌 Path:** `projects/feedback_analysis/`  
+ 
 ---
 
 ## 🛠️ Installation & Setup  
