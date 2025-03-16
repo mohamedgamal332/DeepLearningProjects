@@ -17,7 +17,7 @@ Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases va
 - **Key Features:** Text preprocessing, sentiment classification, model evaluation.  
 - **📌 Path:** `projects/feedback_analysis/`  
 
-### 🔹 3. Wine Quality Classification (lab.ipynb)
+### 🔹 3. Wine Quality Classification (Wine.ipynb)
 - **Goal:** Classify the quality of wine based on chemical analysis.
 - **Tech Stack:** Python, scikit-learn, TensorFlow/Keras, Matplotlib.
 - **Key Features:**
