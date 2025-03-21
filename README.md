@@ -17,6 +17,7 @@ Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases va
 - **Key Features:** Text preprocessing, sentiment classification, model evaluation.  
 - **📌 Path:** `projects/feedback_analysis/`  
 
+
 ### 🔹 3. Wine Quality Classification (Wine.ipynb)
 - **Goal:** Classify the quality of wine based on chemical analysis.
 - **Tech Stack:** Python, scikit-learn, TensorFlow/Keras, Matplotlib.
@@ -27,6 +28,20 @@ Welcome to my **Deep Learning Projects** repository! 🚀 This repo showcases va
     - Model training and evaluation using various optimizers, loss functions, and metrics.
     - Visualization of model accuracy during training.
 - **📌 Path:** `Wine.ipynb`
+
+
+🔹 4. Fashion MNIST Classification (Fashion_MNIST.ipynb)  
+**Goal:** Compare different neural network architectures for classifying Fashion MNIST images.  
+**Tech Stack:** Python, TensorFlow/Keras, Matplotlib.  
+**Key Features:**  
+- Data loading and normalization.  
+- Implementation of three models:  
+  - Simple Artificial Neural Network (ANN)  
+  - Deep ANN with L2 weight regularization and Dropout  
+  - Convolutional Neural Network (CNN) with Early Stopping to prevent overfitting.  
+- Model training and evaluation.  
+- Visualization of accuracy during training.  
+📌 **Path:** `projects/fashion_mnist/`  
 
 ---
 
